@@ -114,7 +114,7 @@ vignesh = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Clear AWS Cloud Practitioner exam
 - [ ] Clear AZ-900 Azure Fundamentals exam
